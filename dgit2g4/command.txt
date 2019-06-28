@@ -1,0 +1,9 @@
+http://kdiff3.sourceforge.net/
+
+git config --global merge.tool kdiff3
+
+git config --global mergetool.kdiff3.cmd '"w:\\Program Files\\KDiff3\\kdiff3" $BASE $LOCAL $REMOTE -o $MERGED'
+
+git merge
+
+git mergetool

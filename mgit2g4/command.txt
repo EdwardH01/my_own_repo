@@ -1,0 +1,9 @@
+git branch -v
+
+git branch 
+
+git checkout branch2
+
+git checkout -b branch3
+
+

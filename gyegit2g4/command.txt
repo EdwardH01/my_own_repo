@@ -1,0 +1,7 @@
+git init  - инициализация git
+
+git config --global user.name "Andrey" - имя пользователя
+git config --global user.email andrey@example.com  - мэил пользователя
+
+git config --list
+

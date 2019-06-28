@@ -1,0 +1,5 @@
+git log
+
+git log --pretty=format:"%h - %an, %ar : %s"
+
+git log -p -2
