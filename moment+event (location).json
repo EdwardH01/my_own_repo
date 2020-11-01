@@ -232,7 +232,7 @@ start/end у момента и ивента должны совпадать, т�
 }
 
 
-ЕЩЕ ПОПЫТКА:
+Last update:
 {
     "params": {
         "exclude": ["test_moments", "test_segments", "moments", "events", "segments"],
