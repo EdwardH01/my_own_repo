@@ -8,6 +8,6 @@ SELECT ("public"."router_messagetask"."data" -> 'end')::TEXT as datetime ,
         "public"."router_messagetask"."event" AS "events"
 FROM "public"."router_messagetask"
 WHERE ("public"."router_messagetask"."trigger_id" IN (37, 38, 39, 40, 41)
-   AND "public"."router_messagetask"."user_id" = 153692 and (NOT "public"."router_messagetask"."data" IS NULL)) and "public"."router_messagetask"."is_duplicated" = false
+   AND "public"."router_messagetask"."user_id" = 150000 and (NOT "public"."router_messagetask"."data" IS NULL)) and "public"."router_messagetask"."is_duplicated" = false
 GROUP BY datetime, m_text, events
 ORDER BY datetime DESC, m_text, events
