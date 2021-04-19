@@ -1,0 +1,45 @@
+{
+"user_data": {
+"user_id": 147330,
+"user_time_offset": 10800
+	},
+	"items": [
+	{
+		"entryType": "workout",
+		"health_kit_id": "206C960F-A054-37AA-4ABE-398D8D292B89",
+		"timeStart": "2021-01-19T14:01:00+0300",
+		"timeEnd": "2021-01-19T15:02:30+0300",
+		"sourceType": "api",
+		"sourceGroup": "HealthKit",
+		"sourceName": "com.apple.Health",
+		"workoutActivityType": "swimming",
+		"totalStepCount": 0,
+		"duration": 3690,
+		"totalDistanceUnit": "m",
+		"totalDistance": 1950,
+		"averageBPMUnit": "count\/min",
+		"averageBPM": 127,
+		"totalEnergyBurnedUnit": "kcal",
+		"totalEnergyBurned": 670,
+		"basalEnergyBurnedUnit": "kcal",
+		"basalEnergyBurned": 91,
+		"walkingHeartRateAverageUnit": "count\/min",
+		"walkingHeartRateAverage": 0,
+		"totalStepCountUnit": "count",
+		"pushCountUnit": "count",
+		"pushCount": 0,
+		"distanceDownhillSnowSportsUnit": "m",
+		"distanceDownhillSnowSports": 0,
+		"swimmingStrokeCountUnit": "count",
+		"swimmingStrokeCount": 0,
+		"distanceSwimmingUnit": "m",
+		"distanceSwimming": 0,
+		"totalSwimmingStrokeCountUnit": "count",
+		"totalSwimmingStrokeCount": 2330,
+		"distanceWheelchairUnit": "m",
+		"distanceWheelchair": 0,
+		"appleExerciseTimeUnit": "min",
+		"appleExerciseTime": 58
+	}
+	]
+}
