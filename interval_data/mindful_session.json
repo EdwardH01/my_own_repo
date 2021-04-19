@@ -1,0 +1,129 @@
+{
+	"user_data": {
+    "user_id": 949982,
+    "user_time_offset": 10800
+  },
+  "items": [
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-10T07:19:30+0300",
+            "timeEnd": "2021-01-10T07:29:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-11T08:19:30+0300",
+            "timeEnd": "2021-01-11T08:35:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-13T09:21:30+0300",
+            "timeEnd": "2021-01-13T09:29:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-13T17:19:30+0300",
+            "timeEnd": "2021-01-13T17:30:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-15T07:19:30+0300",
+            "timeEnd": "2021-01-15T07:39:00+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-16T07:21:30+0300",
+            "timeEnd": "2021-01-16T07:29:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-19T06:19:30+0300",
+            "timeEnd": "2021-01-19T06:35:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-22T17:17:30+0300",
+            "timeEnd": "2021-01-22T17:29:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-24T07:19:30+0300",
+            "timeEnd": "2021-01-24T07:29:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-26T18:19:30+0300",
+            "timeEnd": "2021-01-26T18:30:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        },
+		{
+            "health_kit_id": "D82D24D9-0B92-6209-AEAB-B7EDBA10D8E6",
+            "timeStart": "2021-01-29T09:19:30+0300",
+            "timeEnd": "2021-01-29T09:40:40+0300",
+            "sourceGroup": "HealthKit",
+            "sourceType": "api",
+            "sourceName": "com.bloombuilt.dayone-ios",
+            "dataType": "category",
+			"entryType": "mindful_session",
+            "value": "UNEXPECTED_VALUE(0)"
+        }
+    ]
+}
