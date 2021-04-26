@@ -1,0 +1,4509 @@
+1. Тренировка ############################################################################
+
+{
+"user_data": {
+"user_id": 1790038,
+"user_time_offset": 10800
+	},
+	"items": [
+	{
+		"entryType": "workout",
+		"health_kit_id": "F6E0E5FF-244F-04CA-6B4F-B5D50DBC514F",
+		"timeStart": "2021-04-25T08:59:05+0300",
+		"timeEnd": "2021-04-25T09:50:50+0300",
+		"duration": 3405,
+		"sourceType": "api",
+		"sourceGroup": "HealthKit",
+		"sourceName": "Apple Watch",
+		"workoutActivityType": "running",
+		"averageBPMUnit": "count\/min",
+		"averageBPM": 151,
+		"totalEnergyBurnedUnit": "kcal",
+		"totalEnergyBurned": 499,
+		"basalEnergyBurnedUnit": "kcal",
+		"basalEnergyBurned": 77,
+		"walkingHeartRateAverageUnit": "count\/min",
+		"walkingHeartRateAverage": 0,
+		"totalDistanceUnit": "m",
+		"totalDistance": 9155,
+		"totalStepCountUnit": "count",
+		"totalStepCount": 7601,
+		"pushCountUnit": "count",
+		"pushCount": 0,
+		"distanceDownhillSnowSportsUnit": "m",
+		"distanceDownhillSnowSports": 0,
+		"swimmingStrokeCountUnit": "count",
+		"swimmingStrokeCount": 0,
+		"distanceSwimmingUnit": "m",
+		"distanceSwimming": 0,
+		"totalSwimmingStrokeCountUnit": "count",
+		"totalSwimmingStrokeCount": 0,
+		"distanceWheelchairUnit": "m",
+		"distanceWheelchair": 0,
+		"appleExerciseTimeUnit": "min",
+		"appleExerciseTime": 49,
+		"metadata": {			
+			"HKIndoorWorkout": 0,	
+			"HKWasUserEntered": 0,
+			"HKWeatherTemperature": "12 degC",
+			"HKWeatherHumidity": "50 %",
+			"HKTimeZone": "Europe/Moscow"
+		}
+	}
+	]
+}
+
+
+2. Прогулка ###############################################################################
+
+{
+"user_data": {
+"user_id": 1790038,
+"user_time_offset": 10800
+	},
+	"items": [
+	{
+		"entryType": "workout",
+		"health_kit_id": "7A5FFEB2-A1A0-D251-6850-42D385227E5B",
+		"timeStart": "2021-04-25T16:10:33+0300",
+		"timeEnd": "2021-04-25T16:46:20+0300",
+		"duration": 2147,
+		"sourceType": "api",
+		"sourceGroup": "HealthKit",
+		"sourceName": "Apple Watch",
+		"workoutActivityType": "walking",
+		"averageBPMUnit": "count\/min",
+		"averageBPM": 110,
+		"totalEnergyBurnedUnit": "kcal",
+		"totalEnergyBurned": 135,
+		"basalEnergyBurnedUnit": "kcal",
+		"basalEnergyBurned": 62,
+		"walkingHeartRateAverageUnit": "count\/min",
+		"walkingHeartRateAverage": 102,
+		"totalDistanceUnit": "m",
+		"totalDistance": 2990,
+		"totalStepCountUnit": "count",
+		"totalStepCount": 3477,
+		"pushCountUnit": "count",
+		"pushCount": 0,
+		"distanceDownhillSnowSportsUnit": "m",
+		"distanceDownhillSnowSports": 0,
+		"swimmingStrokeCountUnit": "count",
+		"swimmingStrokeCount": 0,
+		"distanceSwimmingUnit": "m",
+		"distanceSwimming": 0,
+		"totalSwimmingStrokeCountUnit": "count",
+		"totalSwimmingStrokeCount": 0,
+		"distanceWheelchairUnit": "m",
+		"distanceWheelchair": 0,
+		"appleExerciseTimeUnit": "min",
+		"appleExerciseTime": 19,
+		"metadata": {			
+			"HKIndoorWorkout": 0,	
+			"HKWasUserEntered": 0,
+			"HKWeatherTemperature": "11 degC",
+			"HKWeatherHumidity": "52 %",
+			"HKTimeZone": "Europe/Moscow"
+		}
+	}
+	]
+}
+
+3. Интервальные калории ###################################################################
+
+{
+  "user_data": {
+    "user_id": 1790038,
+    "user_time_offset": 10800
+  },
+  "items": [
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T08:59:00+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:04:00+0300",
+      "value": 97,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:04:01+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:09:00+0300",
+      "value": 93,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:09:20+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:14:00+0300",
+      "value": 94,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:14:05+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:20:00+0300",
+      "value": 90,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:20:01+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:25:00+0300",
+      "value": 100,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:25:01+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:30:00+0300",
+      "value": 96,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:30:05+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:35:00+0300",
+      "value": 88,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:35:02+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:40:00+0300",
+      "value": 95,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },	
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:40:01+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:45:00+0300",
+      "value": 90,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:45:11+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:50:01+0300",
+      "value": 102,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T09:50:02+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:55:00+0300",
+      "value": 80,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:08:05+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:10:00+0300",
+      "value": 12,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:10:01+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:15:00+0300",
+      "value": 20,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:15:01+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:20:00+0300",
+      "value": 24,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:20:05+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:25:00+0300",
+      "value": 21,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:25:02+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:30:00+0300",
+      "value": 17,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },	
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:30:01+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:35:00+0300",
+      "value": 18,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:35:11+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:40:01+0300",
+      "value": 16,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    },
+	{  
+      "health_kit_id":"467C5644-F1D4-E294-04EA-47234C24C035",
+	  "timeStart":"2021-04-25T16:40:02+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:45:21+0300",
+      "value": 20,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"activity_calories"
+    }
+    ]
+}
+
+
+4. Интервальные шаги ######################################################################
+
+{
+  "user_data": {
+    "user_id": 1790038,
+    "user_time_offset": 10800
+  },
+  "items": [
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T07:31:00+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T08:04:00+0300",
+      "value": 120,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T08:59:00+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:04:00+0300",
+      "value": 760,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:04:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:09:00+0300",
+      "value": 781,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:09:20+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:14:00+0300",
+      "value": 774,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:14:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:20:00+0300",
+      "value": 741,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:20:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:25:00+0300",
+      "value": 800,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:25:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:30:00+0300",
+      "value": 770,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:30:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:35:00+0300",
+      "value": 720,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:35:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:40:00+0300",
+      "value": 831,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },	
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:40:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:45:00+0300",
+      "value": 780,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:45:11+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:50:01+0300",
+      "value": 779,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:50:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:55:00+0300",
+      "value": 615,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T09:54:54+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T12:02:00+0300",
+      "value": 49,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:08:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:10:00+0300",
+      "value": 231,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:10:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:15:00+0300",
+      "value": 310,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:15:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:20:00+0300",
+      "value": 117,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:20:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:25:00+0300",
+      "value": 101,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:25:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:30:00+0300",
+      "value": 289,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },	
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:30:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:35:00+0300",
+      "value": 159,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:35:11+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:40:01+0300",
+      "value": 257,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:40:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:45:21+0300",
+      "value": 204,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    },
+	{  
+      "health_kit_id":"6DC9F986-8510-1D3A-C55B-B9361A35B669",
+	  "timeStart":"2021-04-25T16:59:50+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T19:30:21+0300",
+      "value": 110,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_steps"
+    }
+    ]
+}
+
+
+5. Интервальные дистанции #################################################################
+
+{
+  "user_data": {
+    "user_id": 1790038,
+    "user_time_offset": 10800
+  },
+  "items": [
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T07:31:00+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T08:04:00+0300",
+      "value": 99,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T08:59:00+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:04:00+0300",
+      "value": 911,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:04:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:09:00+0300",
+      "value": 910,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:09:20+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:14:00+0300",
+      "value": 865,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:14:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:20:00+0300",
+      "value": 861,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:20:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:25:00+0300",
+      "value": 915,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:25:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:30:00+0300",
+      "value": 1103,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:30:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:35:00+0300",
+      "value": 840,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:35:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:40:00+0300",
+      "value": 998,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },	
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:40:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:45:00+0300",
+      "value": 846,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:45:11+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:50:01+0300",
+      "value": 891,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:50:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T09:55:00+0300",
+      "value": 729,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T09:54:54+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T12:02:00+0300",
+      "value": 80,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:08:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:10:00+0300",
+      "value": 202,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:10:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:15:00+0300",
+      "value": 191,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:15:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:20:00+0300",
+      "value": 180,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:20:05+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:25:00+0300",
+      "value": 167,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:25:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:30:00+0300",
+      "value": 135,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },	
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:30:01+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:35:00+0300",
+      "value": 170,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:35:11+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:40:01+0300",
+      "value": 180,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:40:02+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T16:45:21+0300",
+      "value": 189,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    },
+	{  
+      "health_kit_id":"010620C1-FB3C-8D99-DB8E-F70A60B44960",
+	  "timeStart":"2021-04-25T16:59:50+0300",
+	  "dataType":"quantity",
+	  "unit":"count",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T19:30:21+0300",
+      "value": 114,
+      "sourceName":"Apple Watch 6",
+      "sourceType":"api",
+	  "entryType":"activity_distance_running"
+    }
+    ]
+}
+
+6. Потоковый пульс ########################################################################
+
+{
+	"user_data": 
+	{
+		"user_id": 1790038,
+		"user_time_offset": 10800
+	},
+	"items": [
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:03:54+0300",
+		"timeEnd": "2021-04-25T07:03:54+0300",
+		"value": 68
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:08:54+0300",
+		"timeEnd": "2021-04-25T07:08:54+0300",
+		"value": 86
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:13:54+0300",
+		"timeEnd": "2021-04-25T07:13:54+0300",
+		"value": 81
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:18:54+0300",
+		"timeEnd": "2021-04-25T07:18:54+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:23:54+0300",
+		"timeEnd": "2021-04-25T07:23:54+0300",
+		"value": 88
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:28:54+0300",
+		"timeEnd": "2021-04-25T07:28:54+0300",
+		"value": 88
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:33:54+0300",
+		"timeEnd": "2021-04-25T07:33:54+0300",
+		"value": 75
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:38:54+0300",
+		"timeEnd": "2021-04-25T07:38:54+0300",
+		"value": 88
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:43:54+0300",
+		"timeEnd": "2021-04-25T07:43:54+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:48:54+0300",
+		"timeEnd": "2021-04-25T07:48:54+0300",
+		"value": 81
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:53:54+0300",
+		"timeEnd": "2021-04-25T07:53:54+0300",
+		"value": 86
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T07:58:54+0300",
+		"timeEnd": "2021-04-25T07:58:54+0300",
+		"value": 68
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:03:54+0300",
+		"timeEnd": "2021-04-25T08:03:54+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:08:54+0300",
+		"timeEnd": "2021-04-25T08:08:54+0300",
+		"value": 75
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:13:54+0300",
+		"timeEnd": "2021-04-25T08:13:54+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:18:54+0300",
+		"timeEnd": "2021-04-25T08:18:54+0300",
+		"value": 88
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:23:54+0300",
+		"timeEnd": "2021-04-25T08:23:54+0300",
+		"value": 75
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:28:54+0300",
+		"timeEnd": "2021-04-25T08:28:54+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:33:54+0300",
+		"timeEnd": "2021-04-25T08:33:54+0300",
+		"value": 73
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:38:54+0300",
+		"timeEnd": "2021-04-25T08:38:54+0300",
+		"value": 68
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:43:54+0300",
+		"timeEnd": "2021-04-25T08:43:54+0300",
+		"value": 86
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:48:54+0300",
+		"timeEnd": "2021-04-25T08:48:54+0300",
+		"value": 70
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:53:54+0300",
+		"timeEnd": "2021-04-25T08:53:54+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:58:54+0300",
+		"timeEnd": "2021-04-25T08:58:54+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:59:14+0300",
+		"timeEnd": "2021-04-25T08:59:14+0300",
+		"value": 121
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:59:34+0300",
+		"timeEnd": "2021-04-25T08:59:34+0300",
+		"value": 136
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T08:59:54+0300",
+		"timeEnd": "2021-04-25T08:59:54+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:00:14+0300",
+		"timeEnd": "2021-04-25T09:00:14+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:00:34+0300",
+		"timeEnd": "2021-04-25T09:00:34+0300",
+		"value": 160
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:00:54+0300",
+		"timeEnd": "2021-04-25T09:00:54+0300",
+		"value": 160
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:01:14+0300",
+		"timeEnd": "2021-04-25T09:01:14+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:01:34+0300",
+		"timeEnd": "2021-04-25T09:01:34+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:01:54+0300",
+		"timeEnd": "2021-04-25T09:01:54+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:02:14+0300",
+		"timeEnd": "2021-04-25T09:02:14+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:02:34+0300",
+		"timeEnd": "2021-04-25T09:02:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:02:54+0300",
+		"timeEnd": "2021-04-25T09:02:54+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:03:14+0300",
+		"timeEnd": "2021-04-25T09:03:14+0300",
+		"value": 155
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:03:34+0300",
+		"timeEnd": "2021-04-25T09:03:34+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:03:54+0300",
+		"timeEnd": "2021-04-25T09:03:54+0300",
+		"value": 137
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:04:14+0300",
+		"timeEnd": "2021-04-25T09:04:14+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:04:34+0300",
+		"timeEnd": "2021-04-25T09:04:34+0300",
+		"value": 120
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:04:54+0300",
+		"timeEnd": "2021-04-25T09:04:54+0300",
+		"value": 136
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:05:14+0300",
+		"timeEnd": "2021-04-25T09:05:14+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:05:34+0300",
+		"timeEnd": "2021-04-25T09:05:34+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:05:54+0300",
+		"timeEnd": "2021-04-25T09:05:54+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:06:14+0300",
+		"timeEnd": "2021-04-25T09:06:14+0300",
+		"value": 149
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:06:34+0300",
+		"timeEnd": "2021-04-25T09:06:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:06:54+0300",
+		"timeEnd": "2021-04-25T09:06:54+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:07:14+0300",
+		"timeEnd": "2021-04-25T09:07:14+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:07:34+0300",
+		"timeEnd": "2021-04-25T09:07:34+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:07:54+0300",
+		"timeEnd": "2021-04-25T09:07:54+0300",
+		"value": 149
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:08:14+0300",
+		"timeEnd": "2021-04-25T09:08:14+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:08:34+0300",
+		"timeEnd": "2021-04-25T09:08:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:08:54+0300",
+		"timeEnd": "2021-04-25T09:08:54+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:09:14+0300",
+		"timeEnd": "2021-04-25T09:09:14+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:09:34+0300",
+		"timeEnd": "2021-04-25T09:09:34+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:09:54+0300",
+		"timeEnd": "2021-04-25T09:09:54+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:10:14+0300",
+		"timeEnd": "2021-04-25T09:10:14+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:10:34+0300",
+		"timeEnd": "2021-04-25T09:10:34+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:10:54+0300",
+		"timeEnd": "2021-04-25T09:10:54+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:11:14+0300",
+		"timeEnd": "2021-04-25T09:11:14+0300",
+		"value": 138
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:11:34+0300",
+		"timeEnd": "2021-04-25T09:11:34+0300",
+		"value": 145
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:11:54+0300",
+		"timeEnd": "2021-04-25T09:11:54+0300",
+		"value": 141
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:12:14+0300",
+		"timeEnd": "2021-04-25T09:12:14+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:12:34+0300",
+		"timeEnd": "2021-04-25T09:12:34+0300",
+		"value": 152
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:12:54+0300",
+		"timeEnd": "2021-04-25T09:12:54+0300",
+		"value": 147
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:13:14+0300",
+		"timeEnd": "2021-04-25T09:13:14+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:13:34+0300",
+		"timeEnd": "2021-04-25T09:13:34+0300",
+		"value": 147
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:13:54+0300",
+		"timeEnd": "2021-04-25T09:13:54+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:14:14+0300",
+		"timeEnd": "2021-04-25T09:14:14+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:14:34+0300",
+		"timeEnd": "2021-04-25T09:14:34+0300",
+		"value": 151
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:14:54+0300",
+		"timeEnd": "2021-04-25T09:14:54+0300",
+		"value": 157
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:15:14+0300",
+		"timeEnd": "2021-04-25T09:15:14+0300",
+		"value": 147
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:15:34+0300",
+		"timeEnd": "2021-04-25T09:15:34+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:15:54+0300",
+		"timeEnd": "2021-04-25T09:15:54+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:16:14+0300",
+		"timeEnd": "2021-04-25T09:16:14+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:16:34+0300",
+		"timeEnd": "2021-04-25T09:16:34+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:16:54+0300",
+		"timeEnd": "2021-04-25T09:16:54+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:17:14+0300",
+		"timeEnd": "2021-04-25T09:17:14+0300",
+		"value": 151
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:17:34+0300",
+		"timeEnd": "2021-04-25T09:17:34+0300",
+		"value": 152
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:17:54+0300",
+		"timeEnd": "2021-04-25T09:17:54+0300",
+		"value": 147
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:18:14+0300",
+		"timeEnd": "2021-04-25T09:18:14+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:18:34+0300",
+		"timeEnd": "2021-04-25T09:18:34+0300",
+		"value": 154
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:18:54+0300",
+		"timeEnd": "2021-04-25T09:18:54+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:19:14+0300",
+		"timeEnd": "2021-04-25T09:19:14+0300",
+		"value": 152
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:19:34+0300",
+		"timeEnd": "2021-04-25T09:19:34+0300",
+		"value": 148
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:19:54+0300",
+		"timeEnd": "2021-04-25T09:19:54+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:20:14+0300",
+		"timeEnd": "2021-04-25T09:20:14+0300",
+		"value": 149
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:20:34+0300",
+		"timeEnd": "2021-04-25T09:20:34+0300",
+		"value": 137
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:20:54+0300",
+		"timeEnd": "2021-04-25T09:20:54+0300",
+		"value": 139
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:21:14+0300",
+		"timeEnd": "2021-04-25T09:21:14+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:21:34+0300",
+		"timeEnd": "2021-04-25T09:21:34+0300",
+		"value": 126
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:21:54+0300",
+		"timeEnd": "2021-04-25T09:21:54+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:22:14+0300",
+		"timeEnd": "2021-04-25T09:22:14+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:22:34+0300",
+		"timeEnd": "2021-04-25T09:22:34+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:22:54+0300",
+		"timeEnd": "2021-04-25T09:22:54+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:23:14+0300",
+		"timeEnd": "2021-04-25T09:23:14+0300",
+		"value": 151
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:23:34+0300",
+		"timeEnd": "2021-04-25T09:23:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:23:54+0300",
+		"timeEnd": "2021-04-25T09:23:54+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:24:14+0300",
+		"timeEnd": "2021-04-25T09:24:14+0300",
+		"value": 116
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:24:34+0300",
+		"timeEnd": "2021-04-25T09:24:34+0300",
+		"value": 113
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:24:54+0300",
+		"timeEnd": "2021-04-25T09:24:54+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:25:14+0300",
+		"timeEnd": "2021-04-25T09:25:14+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:25:34+0300",
+		"timeEnd": "2021-04-25T09:25:34+0300",
+		"value": 149
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:25:54+0300",
+		"timeEnd": "2021-04-25T09:25:54+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:26:14+0300",
+		"timeEnd": "2021-04-25T09:26:14+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:26:34+0300",
+		"timeEnd": "2021-04-25T09:26:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:26:54+0300",
+		"timeEnd": "2021-04-25T09:26:54+0300",
+		"value": 145
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:27:14+0300",
+		"timeEnd": "2021-04-25T09:27:14+0300",
+		"value": 151
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:27:34+0300",
+		"timeEnd": "2021-04-25T09:27:34+0300",
+		"value": 158
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:27:54+0300",
+		"timeEnd": "2021-04-25T09:27:54+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:28:14+0300",
+		"timeEnd": "2021-04-25T09:28:14+0300",
+		"value": 152
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:28:34+0300",
+		"timeEnd": "2021-04-25T09:28:34+0300",
+		"value": 139
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:28:54+0300",
+		"timeEnd": "2021-04-25T09:28:54+0300",
+		"value": 137
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:29:14+0300",
+		"timeEnd": "2021-04-25T09:29:14+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:29:34+0300",
+		"timeEnd": "2021-04-25T09:29:34+0300",
+		"value": 131
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:29:54+0300",
+		"timeEnd": "2021-04-25T09:29:54+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:30:14+0300",
+		"timeEnd": "2021-04-25T09:30:14+0300",
+		"value": 151
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:30:34+0300",
+		"timeEnd": "2021-04-25T09:30:34+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:30:54+0300",
+		"timeEnd": "2021-04-25T09:30:54+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:31:14+0300",
+		"timeEnd": "2021-04-25T09:31:14+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:31:34+0300",
+		"timeEnd": "2021-04-25T09:31:34+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:31:54+0300",
+		"timeEnd": "2021-04-25T09:31:54+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:32:14+0300",
+		"timeEnd": "2021-04-25T09:32:14+0300",
+		"value": 152
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:32:34+0300",
+		"timeEnd": "2021-04-25T09:32:34+0300",
+		"value": 147
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:32:54+0300",
+		"timeEnd": "2021-04-25T09:32:54+0300",
+		"value": 127
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:33:14+0300",
+		"timeEnd": "2021-04-25T09:33:14+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:33:34+0300",
+		"timeEnd": "2021-04-25T09:33:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:33:54+0300",
+		"timeEnd": "2021-04-25T09:33:54+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:34:14+0300",
+		"timeEnd": "2021-04-25T09:34:14+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:34:34+0300",
+		"timeEnd": "2021-04-25T09:34:34+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:34:54+0300",
+		"timeEnd": "2021-04-25T09:34:54+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:35:14+0300",
+		"timeEnd": "2021-04-25T09:35:14+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:35:34+0300",
+		"timeEnd": "2021-04-25T09:35:34+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:35:54+0300",
+		"timeEnd": "2021-04-25T09:35:54+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:36:14+0300",
+		"timeEnd": "2021-04-25T09:36:14+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:36:34+0300",
+		"timeEnd": "2021-04-25T09:36:34+0300",
+		"value": 147
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:36:54+0300",
+		"timeEnd": "2021-04-25T09:36:54+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:37:14+0300",
+		"timeEnd": "2021-04-25T09:37:14+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:37:34+0300",
+		"timeEnd": "2021-04-25T09:37:34+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:37:54+0300",
+		"timeEnd": "2021-04-25T09:37:54+0300",
+		"value": 137
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:38:14+0300",
+		"timeEnd": "2021-04-25T09:38:14+0300",
+		"value": 131
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:38:34+0300",
+		"timeEnd": "2021-04-25T09:38:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:38:54+0300",
+		"timeEnd": "2021-04-25T09:38:54+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:39:14+0300",
+		"timeEnd": "2021-04-25T09:39:14+0300",
+		"value": 136
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:39:34+0300",
+		"timeEnd": "2021-04-25T09:39:34+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:39:54+0300",
+		"timeEnd": "2021-04-25T09:39:54+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:40:14+0300",
+		"timeEnd": "2021-04-25T09:40:14+0300",
+		"value": 130
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:40:34+0300",
+		"timeEnd": "2021-04-25T09:40:34+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:40:54+0300",
+		"timeEnd": "2021-04-25T09:40:54+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:41:14+0300",
+		"timeEnd": "2021-04-25T09:41:14+0300",
+		"value": 130
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:41:34+0300",
+		"timeEnd": "2021-04-25T09:41:34+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:41:54+0300",
+		"timeEnd": "2021-04-25T09:41:54+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:42:14+0300",
+		"timeEnd": "2021-04-25T09:42:14+0300",
+		"value": 169
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:42:34+0300",
+		"timeEnd": "2021-04-25T09:42:34+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:42:54+0300",
+		"timeEnd": "2021-04-25T09:42:54+0300",
+		"value": 141
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:43:14+0300",
+		"timeEnd": "2021-04-25T09:43:14+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:43:34+0300",
+		"timeEnd": "2021-04-25T09:43:34+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:43:54+0300",
+		"timeEnd": "2021-04-25T09:43:54+0300",
+		"value": 163
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:44:14+0300",
+		"timeEnd": "2021-04-25T09:44:14+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:44:34+0300",
+		"timeEnd": "2021-04-25T09:44:34+0300",
+		"value": 153
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:44:54+0300",
+		"timeEnd": "2021-04-25T09:44:54+0300",
+		"value": 166
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:45:14+0300",
+		"timeEnd": "2021-04-25T09:45:14+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:45:34+0300",
+		"timeEnd": "2021-04-25T09:45:34+0300",
+		"value": 166
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:45:54+0300",
+		"timeEnd": "2021-04-25T09:45:54+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:46:14+0300",
+		"timeEnd": "2021-04-25T09:46:14+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:46:34+0300",
+		"timeEnd": "2021-04-25T09:46:34+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:46:54+0300",
+		"timeEnd": "2021-04-25T09:46:54+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:47:14+0300",
+		"timeEnd": "2021-04-25T09:47:14+0300",
+		"value": 156
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:47:34+0300",
+		"timeEnd": "2021-04-25T09:47:34+0300",
+		"value": 150
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:47:54+0300",
+		"timeEnd": "2021-04-25T09:47:54+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:48:14+0300",
+		"timeEnd": "2021-04-25T09:48:14+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:48:34+0300",
+		"timeEnd": "2021-04-25T09:48:34+0300",
+		"value": 159
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:48:54+0300",
+		"timeEnd": "2021-04-25T09:48:54+0300",
+		"value": 130
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:49:14+0300",
+		"timeEnd": "2021-04-25T09:49:14+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:49:34+0300",
+		"timeEnd": "2021-04-25T09:49:34+0300",
+		"value": 127
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:49:54+0300",
+		"timeEnd": "2021-04-25T09:49:54+0300",
+		"value": 136
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:50:14+0300",
+		"timeEnd": "2021-04-25T09:50:14+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:50:34+0300",
+		"timeEnd": "2021-04-25T09:50:34+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:50:54+0300",
+		"timeEnd": "2021-04-25T09:50:54+0300",
+		"value": 136
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:51:14+0300",
+		"timeEnd": "2021-04-25T09:51:14+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:51:34+0300",
+		"timeEnd": "2021-04-25T09:51:34+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:51:54+0300",
+		"timeEnd": "2021-04-25T09:51:54+0300",
+		"value": 139
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:52:14+0300",
+		"timeEnd": "2021-04-25T09:52:14+0300",
+		"value": 143
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:52:34+0300",
+		"timeEnd": "2021-04-25T09:52:34+0300",
+		"value": 146
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:52:54+0300",
+		"timeEnd": "2021-04-25T09:52:54+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:53:14+0300",
+		"timeEnd": "2021-04-25T09:53:14+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:53:34+0300",
+		"timeEnd": "2021-04-25T09:53:34+0300",
+		"value": 133
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:53:54+0300",
+		"timeEnd": "2021-04-25T09:53:54+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:54:14+0300",
+		"timeEnd": "2021-04-25T09:54:14+0300",
+		"value": 140
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:54:34+0300",
+		"timeEnd": "2021-04-25T09:54:34+0300",
+		"value": 117
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T09:59:34+0300",
+		"timeEnd": "2021-04-25T09:59:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:04:34+0300",
+		"timeEnd": "2021-04-25T10:04:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:09:34+0300",
+		"timeEnd": "2021-04-25T10:09:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:14:34+0300",
+		"timeEnd": "2021-04-25T10:14:34+0300",
+		"value": 87
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:19:34+0300",
+		"timeEnd": "2021-04-25T10:19:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:24:34+0300",
+		"timeEnd": "2021-04-25T10:24:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:29:34+0300",
+		"timeEnd": "2021-04-25T10:29:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:34:34+0300",
+		"timeEnd": "2021-04-25T10:34:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:39:34+0300",
+		"timeEnd": "2021-04-25T10:39:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:44:34+0300",
+		"timeEnd": "2021-04-25T10:44:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:49:34+0300",
+		"timeEnd": "2021-04-25T10:49:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:54:34+0300",
+		"timeEnd": "2021-04-25T10:54:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T10:59:34+0300",
+		"timeEnd": "2021-04-25T10:59:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:04:34+0300",
+		"timeEnd": "2021-04-25T11:04:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:09:34+0300",
+		"timeEnd": "2021-04-25T11:09:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:14:34+0300",
+		"timeEnd": "2021-04-25T11:14:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:19:34+0300",
+		"timeEnd": "2021-04-25T11:19:34+0300",
+		"value": 87
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:24:34+0300",
+		"timeEnd": "2021-04-25T11:24:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:29:34+0300",
+		"timeEnd": "2021-04-25T11:29:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:34:34+0300",
+		"timeEnd": "2021-04-25T11:34:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:39:34+0300",
+		"timeEnd": "2021-04-25T11:39:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:44:34+0300",
+		"timeEnd": "2021-04-25T11:44:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:49:34+0300",
+		"timeEnd": "2021-04-25T11:49:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:54:34+0300",
+		"timeEnd": "2021-04-25T11:54:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T11:59:34+0300",
+		"timeEnd": "2021-04-25T11:59:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:04:34+0300",
+		"timeEnd": "2021-04-25T12:04:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:09:34+0300",
+		"timeEnd": "2021-04-25T12:09:34+0300",
+		"value": 81
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:14:34+0300",
+		"timeEnd": "2021-04-25T12:14:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:19:34+0300",
+		"timeEnd": "2021-04-25T12:19:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:24:34+0300",
+		"timeEnd": "2021-04-25T12:24:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:29:34+0300",
+		"timeEnd": "2021-04-25T12:29:34+0300",
+		"value": 87
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:34:34+0300",
+		"timeEnd": "2021-04-25T12:34:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:39:34+0300",
+		"timeEnd": "2021-04-25T12:39:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:44:34+0300",
+		"timeEnd": "2021-04-25T12:44:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:49:34+0300",
+		"timeEnd": "2021-04-25T12:49:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:54:34+0300",
+		"timeEnd": "2021-04-25T12:54:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T12:59:34+0300",
+		"timeEnd": "2021-04-25T12:59:34+0300",
+		"value": 87
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:04:34+0300",
+		"timeEnd": "2021-04-25T13:04:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:09:34+0300",
+		"timeEnd": "2021-04-25T13:09:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:14:34+0300",
+		"timeEnd": "2021-04-25T13:14:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:19:34+0300",
+		"timeEnd": "2021-04-25T13:19:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:24:34+0300",
+		"timeEnd": "2021-04-25T13:24:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:29:34+0300",
+		"timeEnd": "2021-04-25T13:29:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:34:34+0300",
+		"timeEnd": "2021-04-25T13:34:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:39:34+0300",
+		"timeEnd": "2021-04-25T13:39:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:44:34+0300",
+		"timeEnd": "2021-04-25T13:44:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:49:34+0300",
+		"timeEnd": "2021-04-25T13:49:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:54:34+0300",
+		"timeEnd": "2021-04-25T13:54:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T13:59:34+0300",
+		"timeEnd": "2021-04-25T13:59:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:04:34+0300",
+		"timeEnd": "2021-04-25T14:04:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:09:34+0300",
+		"timeEnd": "2021-04-25T14:09:34+0300",
+		"value": 81
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:14:34+0300",
+		"timeEnd": "2021-04-25T14:14:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:19:34+0300",
+		"timeEnd": "2021-04-25T14:19:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:24:34+0300",
+		"timeEnd": "2021-04-25T14:24:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:29:34+0300",
+		"timeEnd": "2021-04-25T14:29:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:34:34+0300",
+		"timeEnd": "2021-04-25T14:34:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:39:34+0300",
+		"timeEnd": "2021-04-25T14:39:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:44:34+0300",
+		"timeEnd": "2021-04-25T14:44:34+0300",
+		"value": 87
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:49:34+0300",
+		"timeEnd": "2021-04-25T14:49:34+0300",
+		"value": 87
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:54:34+0300",
+		"timeEnd": "2021-04-25T14:54:34+0300",
+		"value": 74
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T14:59:34+0300",
+		"timeEnd": "2021-04-25T14:59:34+0300",
+		"value": 76
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:04:34+0300",
+		"timeEnd": "2021-04-25T15:04:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:09:34+0300",
+		"timeEnd": "2021-04-25T15:09:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:14:34+0300",
+		"timeEnd": "2021-04-25T15:14:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:19:34+0300",
+		"timeEnd": "2021-04-25T15:19:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:24:34+0300",
+		"timeEnd": "2021-04-25T15:24:34+0300",
+		"value": 81
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:29:34+0300",
+		"timeEnd": "2021-04-25T15:29:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:34:34+0300",
+		"timeEnd": "2021-04-25T15:34:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:39:34+0300",
+		"timeEnd": "2021-04-25T15:39:34+0300",
+		"value": 71
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:44:34+0300",
+		"timeEnd": "2021-04-25T15:44:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:49:34+0300",
+		"timeEnd": "2021-04-25T15:49:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:54:34+0300",
+		"timeEnd": "2021-04-25T15:54:34+0300",
+		"value": 85
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T15:59:34+0300",
+		"timeEnd": "2021-04-25T15:59:34+0300",
+		"value": 78
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:04:34+0300",
+		"timeEnd": "2021-04-25T16:04:34+0300",
+		"value": 83
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:09:34+0300",
+		"timeEnd": "2021-04-25T16:09:34+0300",
+		"value": 87
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:14:34+0300",
+		"timeEnd": "2021-04-25T16:14:34+0300",
+		"value": 101
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:19:34+0300",
+		"timeEnd": "2021-04-25T16:19:34+0300",
+		"value": 104
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:24:34+0300",
+		"timeEnd": "2021-04-25T16:24:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:29:34+0300",
+		"timeEnd": "2021-04-25T16:29:34+0300",
+		"value": 105
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:34:34+0300",
+		"timeEnd": "2021-04-25T16:34:34+0300",
+		"value": 103
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:39:34+0300",
+		"timeEnd": "2021-04-25T16:39:34+0300",
+		"value": 90
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:44:34+0300",
+		"timeEnd": "2021-04-25T16:44:34+0300",
+		"value": 116
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:49:34+0300",
+		"timeEnd": "2021-04-25T16:49:34+0300",
+		"value": 95
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:54:34+0300",
+		"timeEnd": "2021-04-25T16:54:34+0300",
+		"value": 66
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T16:59:34+0300",
+		"timeEnd": "2021-04-25T16:59:34+0300",
+		"value": 63
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:04:34+0300",
+		"timeEnd": "2021-04-25T17:04:34+0300",
+		"value": 61
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:09:34+0300",
+		"timeEnd": "2021-04-25T17:09:34+0300",
+		"value": 59
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:14:34+0300",
+		"timeEnd": "2021-04-25T17:14:34+0300",
+		"value": 62
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:19:34+0300",
+		"timeEnd": "2021-04-25T17:19:34+0300",
+		"value": 58
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:24:34+0300",
+		"timeEnd": "2021-04-25T17:24:34+0300",
+		"value": 66
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:29:34+0300",
+		"timeEnd": "2021-04-25T17:29:34+0300",
+		"value": 58
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:34:34+0300",
+		"timeEnd": "2021-04-25T17:34:34+0300",
+		"value": 58
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:39:34+0300",
+		"timeEnd": "2021-04-25T17:39:34+0300",
+		"value": 58
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:44:34+0300",
+		"timeEnd": "2021-04-25T17:44:34+0300",
+		"value": 56
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:49:34+0300",
+		"timeEnd": "2021-04-25T17:49:34+0300",
+		"value": 66
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:54:34+0300",
+		"timeEnd": "2021-04-25T17:54:34+0300",
+		"value": 59
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T17:59:34+0300",
+		"timeEnd": "2021-04-25T17:59:34+0300",
+		"value": 63
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:04:34+0300",
+		"timeEnd": "2021-04-25T18:04:34+0300",
+		"value": 58
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:09:34+0300",
+		"timeEnd": "2021-04-25T18:09:34+0300",
+		"value": 67
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:14:34+0300",
+		"timeEnd": "2021-04-25T18:14:34+0300",
+		"value": 58
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:19:34+0300",
+		"timeEnd": "2021-04-25T18:19:34+0300",
+		"value": 63
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:24:34+0300",
+		"timeEnd": "2021-04-25T18:24:34+0300",
+		"value": 56
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:29:34+0300",
+		"timeEnd": "2021-04-25T18:29:34+0300",
+		"value": 67
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:34:34+0300",
+		"timeEnd": "2021-04-25T18:34:34+0300",
+		"value": 61
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:39:34+0300",
+		"timeEnd": "2021-04-25T18:39:34+0300",
+		"value": 56
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:44:34+0300",
+		"timeEnd": "2021-04-25T18:44:34+0300",
+		"value": 62
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:49:34+0300",
+		"timeEnd": "2021-04-25T18:49:34+0300",
+		"value": 59
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:54:34+0300",
+		"timeEnd": "2021-04-25T18:54:34+0300",
+		"value": 63
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T18:59:34+0300",
+		"timeEnd": "2021-04-25T18:59:34+0300",
+		"value": 61
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:04:34+0300",
+		"timeEnd": "2021-04-25T19:04:34+0300",
+		"value": 59
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:09:34+0300",
+		"timeEnd": "2021-04-25T19:09:34+0300",
+		"value": 61
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:14:34+0300",
+		"timeEnd": "2021-04-25T19:14:34+0300",
+		"value": 58
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:19:34+0300",
+		"timeEnd": "2021-04-25T19:19:34+0300",
+		"value": 56
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:24:34+0300",
+		"timeEnd": "2021-04-25T19:24:34+0300",
+		"value": 57
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:29:34+0300",
+		"timeEnd": "2021-04-25T19:29:34+0300",
+		"value": 55
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:34:34+0300",
+		"timeEnd": "2021-04-25T19:34:34+0300",
+		"value": 53
+	},
+	{
+		"health_kit_id": "775A567F-B147-14FB-E392-08CB290F3CE0",
+		"sourceGroup": "HealthKit",
+		"sourceType": "api",
+		"dataType": "quantity",
+		"sourceName": "Apple Watch 6",
+		"entryType": "bpm",
+		"timeStart": "2021-04-25T19:39:34+0300",
+		"timeEnd": "2021-04-25T19:39:34+0300",
+		"value": 51
+	}
+	]
+}
+
+7. Суточные базальные калории ############################################################# 
+
+{
+  "user_data": {
+    "user_id": 1790038,
+    "user_time_offset": 10800
+  },
+  "items": [
+	{  
+      "health_kit_id":"81203941-5609-76AF-F2F3-ED12FCB4C90A",
+	  "timeStart":"2021-04-25T00:00:00+0300",
+	  "dataType":"quantity",
+	  "unit":"kcal",
+	  "sourceGroup":"HealthKit",
+	  "timeEnd":"2021-04-25T23:59:59+0300",
+      "value": 1631,
+      "sourceName":"com.apple.Health",
+      "sourceType":"api",
+	  "entryType":"basal_energy_burned"
+    }
+	]
+}
+
+8. Суточные шаги ##########################################################################
+
+{
+"user_data": {
+"user_id": 1790038,
+"user_time_offset": 10800
+	},
+"items": [
+	{
+        "health_kit_id": "48DCBD57-D7CD-C378-715B-092BFFA73986",
+        "timeStart": "2021-04-25T00:00:00+0300",
+        "dataType": "quantity",
+        "unit": "count",
+        "sourceGroup": "HealthKit",
+        "timeEnd": "2021-04-25T23:59:59+0300",
+        "value": 9955,
+        "sourceName": "com.apple.Health",
+        "sourceType": "api",
+        "entryType": "activity_steps"
+    }
+	]
+}
+
+9. Сон ####################################################################################
+
+{
+	"user_data": {
+    "user_id": 1790038,
+    "user_time_offset": 10800
+	},
+	"items": [
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T00:25:00+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T00:20:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "awake",
+		"metadata": {"HKWasUserEntered": 0}
+	},
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T00:20:01+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T02:49:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "asleep",
+		"metadata": {"HKWasUserEntered": 0}
+	},
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T02:49:01+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T03:30:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "asleep",
+		"metadata": {"HKWasUserEntered": 0}
+	},
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T03:31:01+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T03:32:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "awake",
+		"metadata": {"HKWasUserEntered": 0}
+	},	
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T03:32:01+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T05:59:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "asleep",
+		"metadata": {"HKWasUserEntered": 0}
+	},
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T05:59:01+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T06:01:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "awake",
+		"metadata": {"HKWasUserEntered": 0}
+	},
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T06:01:01+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T07:40:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "awake",
+		"metadata": {"HKWasUserEntered": 0}
+	},
+	{  
+		"health_kit_id": "83092EC1-68D6-6CCA-E220-B5B8855616EC",
+		"timeStart": "2021-04-25T00:25:01+0300",
+		"dataType": "category",
+		"sourceGroup": "HealthKit",
+		"timeEnd": "2021-04-25T07:40:00+0300",
+		"sourceName": "com.apple.Health",
+		"sourceType": "api",
+		"entryType": "sleep",
+		"value": "in_bed",
+		"metadata": {"HKWasUserEntered": 0}
+	}
+    ]
+}
+
+10. Давление ####################################################################################
+
+{
+	"user_data": {
+    "user_id": 1790038,
+    "user_time_offset": 10800
+	},
+	"items": [
+		{
+        "health_kit_id": "9379A546-147B-D7D3-C1FB-E1F3977E94A6",
+        "timeStart": "2021-04-25T09:05:49+0300",
+        "timeEnd": "2021-12-08T09:05:49+0300",
+        "sourceGroup": "HealthKit",
+        "sourceType": "api",
+        "sourceName": "com.apple.Health",
+        "dataType": "complex",
+        "entryType": "blood_pressure",
+        "value": [
+			{
+                "entryType": "systolic",
+                "dataType": "quantity",
+                "value": 119,
+                "unit": "mmHg"
+			},
+			{
+                "entryType": "diastolic",
+                "dataType": "quantity",
+                "value": 77,
+                "unit": "mmHg"
+			}
+			]
+		}	
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
