@@ -7,8 +7,8 @@
 	{
 		"entryType": "workout",
 		"health_kit_id": "14CF485D-22B8-9071-17F0-5EF270E5966A",
-		"timeStart": "2021-01-20T11:05:00+0300",
-		"timeEnd": "2021-01-20T11:25:00+0300",
+		"timeStart": "2021-04-20T11:05:00+0300",
+		"timeEnd": "2021-04-20T11:25:00+0300",
 		"duration": 1200,
 		"sourceType": "api",
 		"sourceGroup": "HealthKit",
